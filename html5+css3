@@ -1,0 +1,12 @@
+#jQuery取得select选中的值
+`获取option的value值:jQuery("#select1").val();`
+`获取option选中的值:jQuery("#select1  option:selected").text();`
+#li标签去除float:left,让ul里的li居中
+`nav ul {width: 100%;  text-align: center;}`
+`nav ul li {display: inline-block; list-style: none; width:30px;}`
+#button按钮点击之后出现边框
+`outline：none`
+#时间处理
+`{!! date('Y-m-d',strtotime($data->created_at)) !!}`
+#phpstudy站点域名文件
+`C:\Windows\System32\drivers\etc\hosts`
